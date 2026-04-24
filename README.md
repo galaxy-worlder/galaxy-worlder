@@ -1,5 +1,5 @@
 👋 Hi, I'm galaxy-worlder
-🧬 Bioinformatics Explorer | 🤖 AI Model Developer | 💻 Full-Stack Engineer（future or ）
+🧬 Bioinformatics Explorer | 🤖 AI Model Developer | 💻 Full-Stack Engineer（future and not now）
 I am passionate about finding answers at the intersection of Life Sciences and Computer Science. My current focus is leveraging Large Language Models (LLMs) and modern Web technologies to make complex biological data analysis more intuitive and accessible.
 
 🚀 Core Tech Stack
