@@ -14,7 +14,7 @@
 * **Medical Imaging AI Agent:** Building an interactive agent combining traditional image enhancement (IRetinex) with zero-shot segmentation models (MedSAM) for gastroenterology.
 * **Protein Sequence Visualization:** Developed a Python-based GUI application for generating and analyzing Two-Sample Logo visualizations.
 * **Deep Learning for Proteomics:** Training and fine-tuning transformer models for Peptide-Spectrum Match (PSM) rescoring, optimizing distributed training across multiple GPUs.
-* **AI x ACGN:** Tinkering with multi-modal LLMs and VTuber technologies (like Open-LLM-VTuber) to explore the future of virtual character animation.
+* **AI x ACGN:** Tinkering with multi-modal LLMs and VTuber technologies to explore the future of virtual character animation.
 
 ### 🛠️ Build fun stuff with:
 
