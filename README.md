@@ -1,34 +1,40 @@
-👋 Hi, I'm galaxy-worlder
-🧬 Bioinformatics Explorer | 🤖 AI Model Developer | 💻 Full-Stack Engineer（future and not now）
-I am passionate about finding answers at the intersection of Life Sciences and Computer Science. My current focus is leveraging Large Language Models (LLMs) and modern Web technologies to make complex biological data analysis more intuitive and accessible.
+# Hello! I'm [你的名字/昵称] 👋
 
-🚀 Core Tech Stack
-Bioinformatics & AI
-Languages & Tools: Python, R (ggplot2, Seurat, tidyverse)
+**A Bioinformatics student** exploring the intersection of life sciences and artificial intelligence. 
+~~Often found debugging at 2 AM~~ Always passionate about using AI to solve complex biological and medical challenges.
 
-LLM Fine-tuning: LLaMA-Factory (Qwen, LLaMA series), automated synthetic dataset generation
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](你的领英链接)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](你的博客链接)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:你的邮箱)
 
-Data Pipeline: Professional Git-based management for genomic and code corpora
+---
 
-Full-Stack Development
-Backend: FastAPI, Python, SQLite/PostgreSQL (Expertise in asynchronous task processing and DB schema design)
+### 🔭 Fun stuff I'm working on:
 
-Frontend: Vanilla JavaScript (ES6+), CSS3 (Responsive Design, Dark Mode support)
+* **Medical Imaging AI Agent:** Building an interactive agent combining traditional image enhancement (IRetinex) with zero-shot segmentation models (MedSAM) for gastroenterology.
+* **Protein Sequence Visualization:** Developed a Python-based GUI application for generating and analyzing Two-Sample Logo visualizations.
+* **Deep Learning for Proteomics:** Training and fine-tuning transformer models for Peptide-Spectrum Match (PSM) rescoring, optimizing distributed training across multiple GPUs.
+* **AI x ACGN:** Tinkering with multi-modal LLMs and VTuber technologies (like Open-LLM-VTuber) to explore the future of virtual character animation.
 
-DevOps: Docker Containerization, GitHub Pages (CI/CD), Linux Server Administration
+### 🛠️ Build fun stuff with:
 
-🛠️ Featured Projects
-🧬 CellBioReview Pro
-Description: An intelligent flashcard-based review system for Cellular Biology using the SM-2 Spaced Repetition Algorithm.
+**Languages & Tools:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-Key Features: Local data persistence, Dark Mode, Gesture interaction, and successfully upgraded from Static Storage to a FastAPI + Database cloud architecture.
+**Research & Analytics:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
-📊 Bio-Plot Copilot Dataset
-Description: A high-quality instruction-tuning dataset repository for bioinformatics plotting.
+---
 
-Tech: Automated scripts transforming complex CNS-level R code into standard Alpaca formats for model training.
+### 🌱 Currently Learning:
 
-📫 Connect with Me
-Email: [omomdibana944@gmail.com]/[2963973178@qq.com]
-
-"The code is the bridge between the logic of life and the power of silicon."
+* Advanced multi-modal model deployment and inference optimization.
+* Integrating sophisticated language models with medical workflows.
