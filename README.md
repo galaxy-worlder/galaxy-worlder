@@ -1,4 +1,4 @@
-# Hello! I'm [你的名字/昵称] 👋
+# Hello! I'm [galaxy-worlder] 👋
 
 **A Bioinformatics student** exploring the intersection of life sciences and artificial intelligence. 
 ~~Often found debugging at 2 AM~~ Always passionate about using AI to solve complex biological and medical challenges.
